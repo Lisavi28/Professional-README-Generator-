@@ -1,5 +1,3 @@
-# Professional README Generator Starter Code
-
 # Professional-README-Generator
   
   
@@ -23,9 +21,6 @@
    
   mit
   ## [Contributing](#table-of-contents)
-  Contributions are welcome
+  true
   ## [Tests](#table-of-contents)
   undefined
-
-
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
