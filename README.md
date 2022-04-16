@@ -1,4 +1,3 @@
-# Professional README Generator Starter Code
 
 # Professional-README-Generator
   
@@ -16,16 +15,19 @@
   
   ## [Description](#table-of-contents)
   The following README generator contains the essential elements to create a professional README, facilitating the development of your project in a complete way and providing high quality to the application by explaining it and referencing its content and technology.
+
+  See my professional README generator in action here https://drive.google.com/file/d/1BGq7IQJuwjwE8ZKDON57z6wLyI3iZc_M/view
+
   ## [Installation](#table-of-contents)
-  Clone this repository, then install inquirer to your root folder  from npm library
+  Clone this repository, then install inquirer to your root folder  from npm library.
   ## [Usage](#table-of-contents)
-  open a terminal where the index.js file is, and run node index.js. You will be guided through a series of queries to retrieve your information
-   
+  Open a terminal where the index.js file is, and run node index.js. You will be guided through a series of queries to retrieve your information
+  ## [Licenses]
   mit
   ## [Contributing](#table-of-contents)
-  Contributions are welcome
+  Contributions are welcome.
   ## [Tests](#table-of-contents)
-  undefined
+  No test are required.
 
-
+![readme](https://github.com/Lisavi28/professional-readme-generator/blob/main/develop/images/readme.png)
 [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
