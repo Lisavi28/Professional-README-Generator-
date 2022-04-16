@@ -74,7 +74,7 @@ const questions = [
         if (testInput) {
             return true;
         } else {
-            console.log('Please enter your use test instructions!');
+            console.log('Please enter your instructions to tes!');
             return false;
         }
     }
@@ -87,10 +87,38 @@ const questions = [
     default: true
 },
 
+{
+    type: 'input',
+    name: 'githubUsername',
+    message: 'What is your GitHub Username?',
+    validate: githInput => {
+        if (githInput) {
+            return true;
+        } else {
+            console.log('Please enter your GitHub username!');
+            return false;
+        }
+    }
+
+},
+
+{
+    type: 'input',
+    name: 'email',
+    message: 'What is your email address?',
+    validate: emailinput => {
+        if (emailinput) {
+            return true;
+        } else {
+        console.log('Please enter your email address!');
+            return false;
+        }
+    }
+},
+
 ];
 
 // TODO: Create a function to write README file
-//function writeToFile(fileName, data) {}
 
 const writeFile = fileInfo => {
     return new Promise((resolve, reject) => {
@@ -118,7 +146,6 @@ const writeFile = fileInfo => {
     }
 
 // Function call to initialize app
-//init();
 
 init()
 .then(readmeInfo => {
