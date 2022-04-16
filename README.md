@@ -1,8 +1,6 @@
 
 # Professional-README-Generator
   
-  
-  ![badge](https://img.shields.io/badge/license-mit-blue)
     
   ## Table-of-Contents
   * [Description](#description)
@@ -22,12 +20,12 @@
   Clone this repository, then install inquirer to your root folder  from npm library.
   ## [Usage](#table-of-contents)
   Open a terminal where the index.js file is, and run node index.js. You will be guided through a series of queries to retrieve your information
-  ## [Licenses]
+  ## [License]
   mit
   ## [Contributing](#table-of-contents)
   Contributions are welcome.
   ## [Tests](#table-of-contents)
   No test are required.
 
-![readme](https://github.com/Lisavi28/professional-readme-generator/blob/main/develop/images/readme.png)
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+![readme](https://github.com/Lisavi28/Professional-README-Generator-/blob/main/Develop/images/readme.PNG)
+
